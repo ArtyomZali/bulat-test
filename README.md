@@ -12,4 +12,4 @@
 - there is no router, because project does not require multiple pages
 - `vuetify` has been added to the project for the sake of speed of development
 - although there is a UI framework in the project, I didn`t put much effort into visual, because I do not have the understanding of your project UI requirements yet :)
-- graph itself and init logic located in `App.vue` and all of the forms located in one modal component. It is a bad practice, it we`re talking about irl project, but for small proof of competence it does not dissonate with me  
+- graph itself and init logic located in `App.vue` and all of the forms located in one modal component. It is a bad practice, if we`re talking about irl project, but for small proof of competence it does not dissonate with me  
