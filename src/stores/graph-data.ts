@@ -10,6 +10,8 @@ export enum NodeType {
   Switch = "switch",
 }
 
+//I ignored v-network-graph types intentionally, becase they do not
+//provide me with any speed boost or additional safety (you may look at Node and Edge types in the lib yourself)
 export type Node = {
   uuid: string;
   name: string;
